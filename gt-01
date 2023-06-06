@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>龚涛个人简介</title>
+
+    <style>  
+
+      body {
+
+        margin: 0;
+
+      }
+
+    </style>
+
+  </head>
+
+  <body style="margin: 0;">
+
+    <div style="
+
+      background-color: #f1f1f1;
+
+      text-align: center;
+
+      padding: 40px;
+
+      ">
+
+      <img alt="龚涛" src="https://i.imgloc.com/2023/06/06/Vlwx4d.png" width="80px" height="80px">
+
+    </div>
+
+    <div style="
+
+      max-width: 760px;
+
+      margin: 30px auto;
+
+      padding: 15px;
+
+      line-height: 1.7;
+
+      ">
+
+      <p>你好。</p>
+
+      <p>我叫龚涛。</p>
+
+      <p>偶尔打打球，或者玩玩游戏。</p>
+
+    </div>
+
+    <div style="
+
+      background-color: #f1f1f1;
+
+      text-align: center;
+
+      padding: 40px;
+
+      font-size: 12px;
+
+      ">
+
+     <p>版权所有: gongtao.com</p>
+
+     <a href="https://gongtao.com/">我的网站<p></p>
+
+    </a></div><a href="https://gongtao.com/"></a>
+
+  </body>
+
+</html>
